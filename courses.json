@@ -1,0 +1,37 @@
+{"Science" :[
+    "Engineering",
+    "Mechanical",
+    "Aeronautical/Aerospace",
+    "Civil",
+    "Robotics",
+    "Electrical",
+    "Electronics",
+    "Computer",
+    "Material Science",
+    "Metallurgy",
+    "Chemical",
+    "Biotechnology",
+    "Medicine",
+    "Architecture"
+ ],
+ "Pure":[
+    "Mathematics",
+    "Physics",
+    "Chemistry",
+    "Biology"
+ ],
+
+ "Commerce":[
+    "MBA"
+ ],
+ "Arts":[
+    "Education",
+    "Journalism",
+    "Mass Communication",
+    "Politics",
+    "Psychology",
+    "Language and Literature",
+    "Geography",
+    "History"
+ ]
+}
